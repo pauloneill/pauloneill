@@ -56,7 +56,8 @@ SQL Server
 
 ## Testing
 
-NUnit Fluent Moq Faker Bogus
+NUnit Fluent Moq Faker Bogus [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+
 
 🖥️ ## Workspace Setup
 
