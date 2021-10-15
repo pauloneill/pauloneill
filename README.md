@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Testing
 
-![NUnit](https://img.shields.io/badge/NUnit-%23217346.svg) ![Fluent Assertions](https://img.shields.io/badge/Fluent Assertions-%23ff0000.svg) ![Moq](https://img.shields.io/badge/Moq-%23ffa500.svg) ![Faker](https://img.shields.io/badge/Faker-%23217346.svg) ![Bogus](https://img.shields.io/badge/Bogus-%23000000.svg)
+![NUnit](https://img.shields.io/badge/NUnit-%23217346.svg) ![Fluent Assertions](https://img.shields.io/badge/Fluent_Assertions-%23ff0000.svg) ![Moq](https://img.shields.io/badge/Moq-%23ffa500.svg) ![Faker](https://img.shields.io/badge/Faker-%23217346.svg) ![Bogus](https://img.shields.io/badge/Bogus-%23000000.svg)
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
